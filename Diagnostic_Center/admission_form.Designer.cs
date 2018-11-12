@@ -31,16 +31,31 @@
             this.components = new System.ComponentModel.Container();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource2 = new Microsoft.Reporting.WinForms.ReportDataSource();
-            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
             this.admissionBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.DataSet10 = new Diagnostic_Center.DataSet10();
-            this.admissionTableAdapter = new Diagnostic_Center.DataSet10TableAdapters.admissionTableAdapter();
             this.user_cash_collection_hospitalBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
+            this.admissionTableAdapter = new Diagnostic_Center.DataSet10TableAdapters.admissionTableAdapter();
             this.user_cash_collection_hospitalTableAdapter = new Diagnostic_Center.DataSet10TableAdapters.user_cash_collection_hospitalTableAdapter();
             ((System.ComponentModel.ISupportInitialize)(this.admissionBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataSet10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.user_cash_collection_hospitalBindingSource)).BeginInit();
             this.SuspendLayout();
+            // 
+            // admissionBindingSource
+            // 
+            this.admissionBindingSource.DataMember = "admission";
+            this.admissionBindingSource.DataSource = this.DataSet10;
+            // 
+            // DataSet10
+            // 
+            this.DataSet10.DataSetName = "DataSet10";
+            this.DataSet10.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // user_cash_collection_hospitalBindingSource
+            // 
+            this.user_cash_collection_hospitalBindingSource.DataMember = "user_cash_collection_hospital";
+            this.user_cash_collection_hospitalBindingSource.DataSource = this.DataSet10;
             // 
             // reportViewer1
             // 
@@ -57,24 +72,9 @@
             this.reportViewer1.Size = new System.Drawing.Size(548, 414);
             this.reportViewer1.TabIndex = 0;
             // 
-            // admissionBindingSource
-            // 
-            this.admissionBindingSource.DataMember = "admission";
-            this.admissionBindingSource.DataSource = this.DataSet10;
-            // 
-            // DataSet10
-            // 
-            this.DataSet10.DataSetName = "DataSet10";
-            this.DataSet10.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
             // admissionTableAdapter
             // 
             this.admissionTableAdapter.ClearBeforeFill = true;
-            // 
-            // user_cash_collection_hospitalBindingSource
-            // 
-            this.user_cash_collection_hospitalBindingSource.DataMember = "user_cash_collection_hospital";
-            this.user_cash_collection_hospitalBindingSource.DataSource = this.DataSet10;
             // 
             // user_cash_collection_hospitalTableAdapter
             // 
