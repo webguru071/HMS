@@ -1,0 +1,1985 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{95ED5F2D-F0CB-4392-8872-66722DFC7413}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Diagnostic_Center</RootNamespace>
+    <AssemblyName>National</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Dapino-Medical-Heart-beat.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.8.0.6, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="SkinSoft.VisualStyler, Version=2.4.0.0, Culture=neutral, PublicKeyToken=0fda9f423e1d9830, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_bill_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_bill_list.Designer.cs">
+      <DependentUpon>Add_bill_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_doctor.Designer.cs">
+      <DependentUpon>add_doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Employee.Designer.cs">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_medicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_medicine.Designer.cs">
+      <DependentUpon>add_medicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_room.Designer.cs">
+      <DependentUpon>add_room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_test.Designer.cs">
+      <DependentUpon>add_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_User.Designer.cs">
+      <DependentUpon>Add_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admission_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admission_form.Designer.cs">
+      <DependentUpon>admission_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admission_receipt_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admission_receipt_Print.Designer.cs">
+      <DependentUpon>Admission_receipt_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="all_patient_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="all_patient_history.Designer.cs">
+      <DependentUpon>all_patient_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anaesthesia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anaesthesia.Designer.cs">
+      <DependentUpon>Anaesthesia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anasteasia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasteasia.Designer.cs">
+      <DependentUpon>Anasteasia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Backup.Designer.cs">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BD_Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BD_Connection.Designer.cs">
+      <DependentUpon>BD_Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bed_Bill_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bed_Bill_Print.Designer.cs">
+      <DependentUpon>Bed_Bill_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connection.cs" />
+    <Compile Include="daily_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daily_account.Designer.cs">
+      <DependentUpon>daily_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Daily_Opd_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daily_Opd_Account.Designer.cs">
+      <DependentUpon>Daily_Opd_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="daily_patient_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daily_patient_account.Designer.cs">
+      <DependentUpon>daily_patient_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="daily_reference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daily_reference.Designer.cs">
+      <DependentUpon>daily_reference.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Daily_userc_cash_collection_summarry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daily_userc_cash_collection_summarry.Designer.cs">
+      <DependentUpon>Daily_userc_cash_collection_summarry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="daily_user_cash_collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="daily_user_cash_collection.Designer.cs">
+      <DependentUpon>daily_user_cash_collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="database.Designer.cs">
+      <DependentUpon>database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="databaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>databaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="database_connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="database_connection.Designer.cs">
+      <DependentUpon>database_connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet17.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet17.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet18.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet18.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet19.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet19.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet20.cs">
+      <DependentUpon>DataSet20.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet20.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet20.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet21.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet21.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet22.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet22.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet23.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet23.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet24.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet24.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet25.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet25.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet26.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet26.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet27.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet27.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet28.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet28.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet29.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet29.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet30.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet30.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet31.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet31.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet32.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet32.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet33.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet33.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet34.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet34.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet35.cs">
+      <DependentUpon>DataSet35.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet35.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet35.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet36.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet36.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet37.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet37.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet38.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet38.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet39.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet39.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet40.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet40.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet41.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet41.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet42.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet42.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet43.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet43.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet44.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet44.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet45.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet45.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnostic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnostic.Designer.cs">
+      <DependentUpon>Diagnostic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diagnostic_bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diagnostic_bill.Designer.cs">
+      <DependentUpon>diagnostic_bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diagnostic_bill2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diagnostic_bill2.Designer.cs">
+      <DependentUpon>diagnostic_bill2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnostic_Bill3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnostic_Bill3.Designer.cs">
+      <DependentUpon>Diagnostic_Bill3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnostic_xl_print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnostic_xl_print.Designer.cs">
+      <DependentUpon>Diagnostic_xl_print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="discharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="discharge.Designer.cs">
+      <DependentUpon>discharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="discharge_bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="discharge_bill.Designer.cs">
+      <DependentUpon>discharge_bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="discharge_bill2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="discharge_bill2.Designer.cs">
+      <DependentUpon>discharge_bill2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discharge_Certificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discharge_Certificate.Designer.cs">
+      <DependentUpon>Discharge_Certificate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discharge_print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discharge_print.Designer.cs">
+      <DependentUpon>Discharge_print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctors.Designer.cs">
+      <DependentUpon>Doctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doctorwise_referance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctorwise_referance.Designer.cs">
+      <DependentUpon>doctorwise_referance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor_Appointment.Designer.cs">
+      <DependentUpon>Doctor_Appointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="due_collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="due_collection.Designer.cs">
+      <DependentUpon>due_collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expense List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expense List.Designer.cs">
+      <DependentUpon>Expense List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expense.Designer.cs">
+      <DependentUpon>Expense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="External_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="External_Account.Designer.cs">
+      <DependentUpon>External_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hematology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hematology.Designer.cs">
+      <DependentUpon>hematology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hospital.Designer.cs">
+      <DependentUpon>Hospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hospital_referance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hospital_referance.Designer.cs">
+      <DependentUpon>hospital_referance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hospita_Due_Collection_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hospita_Due_Collection_Print.Designer.cs">
+      <DependentUpon>Hospita_Due_Collection_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab_Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab_Inventory.Designer.cs">
+      <DependentUpon>Lab_Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab_Inventory_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab_Inventory_Print.Designer.cs">
+      <DependentUpon>Lab_Inventory_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab_Management.Designer.cs">
+      <DependentUpon>Lab_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="medicine_bill_payment_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="medicine_bill_payment_history.Designer.cs">
+      <DependentUpon>medicine_bill_payment_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="medicine_category_crud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="medicine_category_crud.Designer.cs">
+      <DependentUpon>medicine_category_crud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicine_Cells_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicine_Cells_History.Designer.cs">
+      <DependentUpon>Medicine_Cells_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicine_Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicine_Company.Designer.cs">
+      <DependentUpon>Medicine_Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicine_Paid_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicine_Paid_History.Designer.cs">
+      <DependentUpon>Medicine_Paid_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="month.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="month.Designer.cs">
+      <DependentUpon>month.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monthly_Opd_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monthly_Opd_Account.Designer.cs">
+      <DependentUpon>Monthly_Opd_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="monthly_patient_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="monthly_patient_account.Designer.cs">
+      <DependentUpon>monthly_patient_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="monthly_referance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="monthly_referance.Designer.cs">
+      <DependentUpon>monthly_referance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPD.Designer.cs">
+      <DependentUpon>OPD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opd_Due_Collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opd_Due_Collection.Designer.cs">
+      <DependentUpon>Opd_Due_Collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opd_Due_Collection_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opd_Due_Collection_Print.Designer.cs">
+      <DependentUpon>Opd_Due_Collection_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Opd_Patient_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opd_Patient_History.Designer.cs">
+      <DependentUpon>Opd_Patient_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPD_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPD_Print.Designer.cs">
+      <DependentUpon>OPD_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operation_bill_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operation_bill_Print.Designer.cs">
+      <DependentUpon>Operation_bill_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pathologist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pathologist.Designer.cs">
+      <DependentUpon>Pathologist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pathology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pathology.Designer.cs">
+      <DependentUpon>pathology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patient.Designer.cs">
+      <DependentUpon>patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient_Admit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient_Admit.Designer.cs">
+      <DependentUpon>Patient_Admit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy.Designer.cs">
+      <DependentUpon>Pharmacy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pharmacy_account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pharmacy_account.Designer.cs">
+      <DependentUpon>pharmacy_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pharmacy_bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pharmacy_bill.Designer.cs">
+      <DependentUpon>pharmacy_bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_Customer_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy_Customer_History.Designer.cs">
+      <DependentUpon>Pharmacy_Customer_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy_Due_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pharmacy_Due_Print.Designer.cs">
+      <DependentUpon>Pharmacy_Due_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prescription.Designer.cs">
+      <DependentUpon>Prescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="print.Designer.cs">
+      <DependentUpon>print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_all_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_all_Employee.Designer.cs">
+      <DependentUpon>Print_all_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Employee_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Employee_Info.Designer.cs">
+      <DependentUpon>Print_Employee_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Expense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Expense.Designer.cs">
+      <DependentUpon>Print_Expense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Medicine_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Medicine_Stock.Designer.cs">
+      <DependentUpon>Print_Medicine_Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Purchase_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Purchase_List.Designer.cs">
+      <DependentUpon>Print_Purchase_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="print_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="print_report.Designer.cs">
+      <DependentUpon>print_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="print_report2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="print_report2.Designer.cs">
+      <DependentUpon>print_report2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase_Medicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase_Medicine.Designer.cs">
+      <DependentUpon>Purchase_Medicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reagent Relation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reagent Relation.Designer.cs">
+      <DependentUpon>Reagent Relation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reagent_relations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reagent_relations.Designer.cs">
+      <DependentUpon>reagent_relations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="refer_doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="refer_doctor.Designer.cs">
+      <DependentUpon>refer_doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary.Designer.cs">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salary_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary_Manage.Designer.cs">
+      <DependentUpon>Salary_Manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="show_doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show_doctor.Designer.cs">
+      <DependentUpon>show_doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Surgeon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Surgeon.Designer.cs">
+      <DependentUpon>Surgeon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Surgeon_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Surgeon_Account.Designer.cs">
+      <DependentUpon>Surgeon_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="take_bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="take_bill.Designer.cs">
+      <DependentUpon>take_bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="take_bill_print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="take_bill_print.Designer.cs">
+      <DependentUpon>take_bill_print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_information.Designer.cs">
+      <DependentUpon>Test_information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="token.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="token.Designer.cs">
+      <DependentUpon>token.cs</DependentUpon>
+    </Compile>
+    <Compile Include="total_accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="total_accounts.Designer.cs">
+      <DependentUpon>total_accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="total_account_monthly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="total_account_monthly.Designer.cs">
+      <DependentUpon>total_account_monthly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ultrasono_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ultrasono_report.Designer.cs">
+      <DependentUpon>ultrasono_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Single_User_Cash_Collection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Single_User_Cash_Collection.Designer.cs">
+      <DependentUpon>Update_Single_User_Cash_Collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urine_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="urine_report.Designer.cs">
+      <DependentUpon>urine_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_Account.Designer.cs">
+      <DependentUpon>user_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Account_Monthly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Account_Monthly.Designer.cs">
+      <DependentUpon>User_Account_Monthly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user_history.Designer.cs">
+      <DependentUpon>user_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Login.Designer.cs">
+      <DependentUpon>User_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Single_Collection_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Single_Collection_Print.Designer.cs">
+      <DependentUpon>User_Single_Collection_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Appointment.Designer.cs">
+      <DependentUpon>View_Appointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Employee.Designer.cs">
+      <DependentUpon>View_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xerox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xerox.Designer.cs">
+      <DependentUpon>xerox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xray2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xray2.Designer.cs">
+      <DependentUpon>Xray2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xray_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xray_report.Designer.cs">
+      <DependentUpon>xray_report.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add_bill_list.resx">
+      <DependentUpon>Add_bill_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_doctor.resx">
+      <DependentUpon>add_doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Employee.resx">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_medicine.resx">
+      <DependentUpon>add_medicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_room.resx">
+      <DependentUpon>add_room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_test.resx">
+      <DependentUpon>add_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_User.resx">
+      <DependentUpon>Add_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admission_form.resx">
+      <DependentUpon>admission_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admission_receipt_Print.resx">
+      <DependentUpon>Admission_receipt_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="all_patient_history.resx">
+      <DependentUpon>all_patient_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anaesthesia.resx">
+      <DependentUpon>Anaesthesia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anasteasia.resx">
+      <DependentUpon>Anasteasia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup.resx">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BD_Connection.resx">
+      <DependentUpon>BD_Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bed_Bill_Print.resx">
+      <DependentUpon>Bed_Bill_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daily_account.resx">
+      <DependentUpon>daily_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daily_Opd_Account.resx">
+      <DependentUpon>Daily_Opd_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daily_patient_account.resx">
+      <DependentUpon>daily_patient_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daily_reference.resx">
+      <DependentUpon>daily_reference.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daily_userc_cash_collection_summarry.resx">
+      <DependentUpon>Daily_userc_cash_collection_summarry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="daily_user_cash_collection.resx">
+      <DependentUpon>daily_user_cash_collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="database.resx">
+      <DependentUpon>database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="database_connection.resx">
+      <DependentUpon>database_connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnostic.resx">
+      <DependentUpon>Diagnostic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diagnostic_bill.resx">
+      <DependentUpon>diagnostic_bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diagnostic_bill2.resx">
+      <DependentUpon>diagnostic_bill2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnostic_Bill3.resx">
+      <DependentUpon>Diagnostic_Bill3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnostic_xl_print.resx">
+      <DependentUpon>Diagnostic_xl_print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="discharge.resx">
+      <DependentUpon>discharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="discharge_bill.resx">
+      <DependentUpon>discharge_bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="discharge_bill2.resx">
+      <DependentUpon>discharge_bill2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discharge_Certificate.resx">
+      <DependentUpon>Discharge_Certificate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discharge_print.resx">
+      <DependentUpon>Discharge_print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctors.resx">
+      <DependentUpon>Doctors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctorwise_referance.resx">
+      <DependentUpon>doctorwise_referance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor_Appointment.resx">
+      <DependentUpon>Doctor_Appointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="due_collection.resx">
+      <DependentUpon>due_collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expense List.resx">
+      <DependentUpon>Expense List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expense.resx">
+      <DependentUpon>Expense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="External_Account.resx">
+      <DependentUpon>External_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hematology.resx">
+      <DependentUpon>hematology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hospital.resx">
+      <DependentUpon>Hospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hospital_referance.resx">
+      <DependentUpon>hospital_referance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hospita_Due_Collection_Print.resx">
+      <DependentUpon>Hospita_Due_Collection_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab_Inventory.resx">
+      <DependentUpon>Lab_Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab_Inventory_Print.resx">
+      <DependentUpon>Lab_Inventory_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab_Management.resx">
+      <DependentUpon>Lab_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="medicine_bill_payment_history.resx">
+      <DependentUpon>medicine_bill_payment_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="medicine_category_crud.resx">
+      <DependentUpon>medicine_category_crud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicine_Cells_History.resx">
+      <DependentUpon>Medicine_Cells_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicine_Company.resx">
+      <DependentUpon>Medicine_Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicine_Paid_History.resx">
+      <DependentUpon>Medicine_Paid_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="month.resx">
+      <DependentUpon>month.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monthly_Opd_Account.resx">
+      <DependentUpon>Monthly_Opd_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="monthly_patient_account.resx">
+      <DependentUpon>monthly_patient_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="monthly_referance.resx">
+      <DependentUpon>monthly_referance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPD.resx">
+      <DependentUpon>OPD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opd_Due_Collection.resx">
+      <DependentUpon>Opd_Due_Collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opd_Due_Collection_Print.resx">
+      <DependentUpon>Opd_Due_Collection_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opd_Patient_History.resx">
+      <DependentUpon>Opd_Patient_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPD_Print.resx">
+      <DependentUpon>OPD_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operation_bill_Print.resx">
+      <DependentUpon>Operation_bill_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pathologist.resx">
+      <DependentUpon>Pathologist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pathology.resx">
+      <DependentUpon>pathology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patient.resx">
+      <DependentUpon>patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient_Admit.resx">
+      <DependentUpon>Patient_Admit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy.resx">
+      <DependentUpon>Pharmacy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pharmacy_account.resx">
+      <DependentUpon>pharmacy_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pharmacy_bill.resx">
+      <DependentUpon>pharmacy_bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy_Customer_History.resx">
+      <DependentUpon>Pharmacy_Customer_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy_Due_Print.resx">
+      <DependentUpon>Pharmacy_Due_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prescription.resx">
+      <DependentUpon>Prescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="print.resx">
+      <DependentUpon>print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_all_Employee.resx">
+      <DependentUpon>Print_all_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Employee_Info.resx">
+      <DependentUpon>Print_Employee_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Expense.resx">
+      <DependentUpon>Print_Expense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Medicine_Stock.resx">
+      <DependentUpon>Print_Medicine_Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Purchase_List.resx">
+      <DependentUpon>Print_Purchase_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="print_report.resx">
+      <DependentUpon>print_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="print_report2.resx">
+      <DependentUpon>print_report2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Purchase_Medicine.resx">
+      <DependentUpon>Purchase_Medicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reagent Relation.resx">
+      <DependentUpon>Reagent Relation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reagent_relations.resx">
+      <DependentUpon>reagent_relations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="refer_doctor.resx">
+      <DependentUpon>refer_doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report10.rdlc" />
+    <EmbeddedResource Include="Report11.rdlc" />
+    <EmbeddedResource Include="Report12.rdlc" />
+    <EmbeddedResource Include="Report13.rdlc" />
+    <EmbeddedResource Include="Report14.rdlc" />
+    <EmbeddedResource Include="Report15.rdlc" />
+    <EmbeddedResource Include="Report16.rdlc" />
+    <EmbeddedResource Include="Report17.rdlc" />
+    <EmbeddedResource Include="Report18.rdlc" />
+    <EmbeddedResource Include="Report19.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report20.rdlc" />
+    <EmbeddedResource Include="Report21.rdlc" />
+    <EmbeddedResource Include="Report22.rdlc" />
+    <EmbeddedResource Include="Report23.rdlc" />
+    <EmbeddedResource Include="Report24.rdlc" />
+    <EmbeddedResource Include="Report25.rdlc" />
+    <EmbeddedResource Include="Report26.rdlc" />
+    <EmbeddedResource Include="Report27.rdlc" />
+    <EmbeddedResource Include="Report28.rdlc" />
+    <EmbeddedResource Include="Report29.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report30.rdlc" />
+    <EmbeddedResource Include="Report31.rdlc" />
+    <EmbeddedResource Include="Report32.rdlc" />
+    <EmbeddedResource Include="Report33.rdlc" />
+    <EmbeddedResource Include="Report34.rdlc" />
+    <EmbeddedResource Include="Report35.rdlc" />
+    <EmbeddedResource Include="Report36.rdlc" />
+    <EmbeddedResource Include="Report37.rdlc" />
+    <EmbeddedResource Include="Report38.rdlc" />
+    <EmbeddedResource Include="Report39.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report40.rdlc" />
+    <EmbeddedResource Include="Report41.rdlc" />
+    <EmbeddedResource Include="Report42.rdlc" />
+    <EmbeddedResource Include="Report43.rdlc" />
+    <EmbeddedResource Include="Report44.rdlc" />
+    <EmbeddedResource Include="Report45.rdlc" />
+    <EmbeddedResource Include="Report46.rdlc" />
+    <EmbeddedResource Include="Report47.rdlc" />
+    <EmbeddedResource Include="Report48.rdlc" />
+    <EmbeddedResource Include="Report49.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report50.rdlc" />
+    <EmbeddedResource Include="Report51.rdlc" />
+    <EmbeddedResource Include="Report52.rdlc" />
+    <EmbeddedResource Include="Report53.rdlc" />
+    <EmbeddedResource Include="Report54.rdlc" />
+    <EmbeddedResource Include="Report55.rdlc" />
+    <EmbeddedResource Include="Report56.rdlc" />
+    <EmbeddedResource Include="Report57.rdlc" />
+    <EmbeddedResource Include="Report58.rdlc" />
+    <EmbeddedResource Include="Report59.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report60.rdlc" />
+    <EmbeddedResource Include="Report61.rdlc" />
+    <EmbeddedResource Include="Report62.rdlc" />
+    <EmbeddedResource Include="Report63.rdlc" />
+    <EmbeddedResource Include="Report7.rdlc" />
+    <EmbeddedResource Include="Report8.rdlc" />
+    <EmbeddedResource Include="Report9.rdlc" />
+    <EmbeddedResource Include="Salary.resx">
+      <DependentUpon>Salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary_Manage.resx">
+      <DependentUpon>Salary_Manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show_doctor.resx">
+      <DependentUpon>show_doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Surgeon.resx">
+      <DependentUpon>Surgeon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Surgeon_Account.resx">
+      <DependentUpon>Surgeon_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="take_bill.resx">
+      <DependentUpon>take_bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="take_bill_print.resx">
+      <DependentUpon>take_bill_print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_information.resx">
+      <DependentUpon>Test_information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="token.resx">
+      <DependentUpon>token.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="total_accounts.resx">
+      <DependentUpon>total_accounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="total_account_monthly.resx">
+      <DependentUpon>total_account_monthly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ultrasono_report.resx">
+      <DependentUpon>ultrasono_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Single_User_Cash_Collection.resx">
+      <DependentUpon>Update_Single_User_Cash_Collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="urine_report.resx">
+      <DependentUpon>urine_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_Account.resx">
+      <DependentUpon>user_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Account_Monthly.resx">
+      <DependentUpon>User_Account_Monthly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user_history.resx">
+      <DependentUpon>user_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Login.resx">
+      <DependentUpon>User_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Single_Collection_Print.resx">
+      <DependentUpon>User_Single_Collection_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Appointment.resx">
+      <DependentUpon>View_Appointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Employee.resx">
+      <DependentUpon>View_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xerox.resx">
+      <DependentUpon>xerox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xray2.resx">
+      <DependentUpon>Xray2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xray_report.resx">
+      <DependentUpon>xray_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="databaseDataSet.xsc">
+      <DependentUpon>databaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="databaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>databaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="databaseDataSet.xss">
+      <DependentUpon>databaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet10.xsc">
+      <DependentUpon>DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet10.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet10.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet10.xss">
+      <DependentUpon>DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet11.xsc">
+      <DependentUpon>DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet11.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet11.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet11.xss">
+      <DependentUpon>DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet12.xsc">
+      <DependentUpon>DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet12.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet12.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet12.xss">
+      <DependentUpon>DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet13.xsc">
+      <DependentUpon>DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet13.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet13.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet13.xss">
+      <DependentUpon>DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet14.xsc">
+      <DependentUpon>DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet14.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet14.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet14.xss">
+      <DependentUpon>DataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet15.xsc">
+      <DependentUpon>DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet15.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet15.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet15.xss">
+      <DependentUpon>DataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet16.xsc">
+      <DependentUpon>DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet16.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet16.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet16.xss">
+      <DependentUpon>DataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet17.xsc">
+      <DependentUpon>DataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet17.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet17.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet17.xss">
+      <DependentUpon>DataSet17.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet18.xsc">
+      <DependentUpon>DataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet18.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet18.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet18.xss">
+      <DependentUpon>DataSet18.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet19.xsc">
+      <DependentUpon>DataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet19.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet19.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet19.xss">
+      <DependentUpon>DataSet19.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet20.xsc">
+      <DependentUpon>DataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet20.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet20.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet20.xss">
+      <DependentUpon>DataSet20.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet21.xsc">
+      <DependentUpon>DataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet21.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet21.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet21.xss">
+      <DependentUpon>DataSet21.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet22.xsc">
+      <DependentUpon>DataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet22.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet22.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet22.xss">
+      <DependentUpon>DataSet22.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet23.xsc">
+      <DependentUpon>DataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet23.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet23.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet23.xss">
+      <DependentUpon>DataSet23.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet24.xsc">
+      <DependentUpon>DataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet24.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet24.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet24.xss">
+      <DependentUpon>DataSet24.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet25.xsc">
+      <DependentUpon>DataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet25.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet25.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet25.xss">
+      <DependentUpon>DataSet25.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet26.xsc">
+      <DependentUpon>DataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet26.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet26.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet26.xss">
+      <DependentUpon>DataSet26.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet27.xsc">
+      <DependentUpon>DataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet27.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet27.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet27.xss">
+      <DependentUpon>DataSet27.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet28.xsc">
+      <DependentUpon>DataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet28.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet28.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet28.xss">
+      <DependentUpon>DataSet28.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet29.xsc">
+      <DependentUpon>DataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet29.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet29.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet29.xss">
+      <DependentUpon>DataSet29.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet30.xsc">
+      <DependentUpon>DataSet30.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet30.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet30.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet30.xss">
+      <DependentUpon>DataSet30.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet31.xsc">
+      <DependentUpon>DataSet31.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet31.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet31.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet31.xss">
+      <DependentUpon>DataSet31.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet32.xsc">
+      <DependentUpon>DataSet32.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet32.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet32.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet32.xss">
+      <DependentUpon>DataSet32.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet33.xsc">
+      <DependentUpon>DataSet33.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet33.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet33.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet33.xss">
+      <DependentUpon>DataSet33.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet34.xsc">
+      <DependentUpon>DataSet34.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet34.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet34.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet34.xss">
+      <DependentUpon>DataSet34.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet35.xsc">
+      <DependentUpon>DataSet35.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet35.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet35.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet35.xss">
+      <DependentUpon>DataSet35.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet36.xsc">
+      <DependentUpon>DataSet36.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet36.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet36.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet36.xss">
+      <DependentUpon>DataSet36.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet37.xsc">
+      <DependentUpon>DataSet37.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet37.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet37.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet37.xss">
+      <DependentUpon>DataSet37.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet38.xsc">
+      <DependentUpon>DataSet38.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet38.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet38.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet38.xss">
+      <DependentUpon>DataSet38.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet39.xsc">
+      <DependentUpon>DataSet39.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet39.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet39.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet39.xss">
+      <DependentUpon>DataSet39.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet4.xsc">
+      <DependentUpon>DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet4.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet4.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet4.xss">
+      <DependentUpon>DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet40.xsc">
+      <DependentUpon>DataSet40.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet40.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet40.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet40.xss">
+      <DependentUpon>DataSet40.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet41.xsc">
+      <DependentUpon>DataSet41.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet41.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet41.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet41.xss">
+      <DependentUpon>DataSet41.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet42.xsc">
+      <DependentUpon>DataSet42.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet42.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet42.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet42.xss">
+      <DependentUpon>DataSet42.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet43.xsc">
+      <DependentUpon>DataSet43.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet43.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet43.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet43.xss">
+      <DependentUpon>DataSet43.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet44.xsc">
+      <DependentUpon>DataSet44.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet44.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet44.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet44.xss">
+      <DependentUpon>DataSet44.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet45.xsc">
+      <DependentUpon>DataSet45.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet45.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet45.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet45.xss">
+      <DependentUpon>DataSet45.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet5.xsc">
+      <DependentUpon>DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet5.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet5.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet5.xss">
+      <DependentUpon>DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet6.xsc">
+      <DependentUpon>DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet6.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet6.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet6.xss">
+      <DependentUpon>DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet7.xsc">
+      <DependentUpon>DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet7.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet7.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet7.xss">
+      <DependentUpon>DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet8.xsc">
+      <DependentUpon>DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet8.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet8.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet8.xss">
+      <DependentUpon>DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet9.xsc">
+      <DependentUpon>DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet9.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet9.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet9.xss">
+      <DependentUpon>DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Diagnostic_Center.DataSet36TableAdapters.opdTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Diagnostic_Center.DataSet36TableAdapters.opd_billTableAdapter.datasource" />
+    <None Include="Properties\DataSources\Diagnostic_Center.DataSet36TableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d81eab9a2aa6b62adea5bfbff1d1cd7a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INSAF-LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INSAF-LOGO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctors.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mukti-clinic-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dapino-Medical-Heart-beat.ico" />
+    <Content Include="database.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="database_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>database.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\noor-general-wallpaper.jpg" />
+    <None Include="Resources\11111.jpg" />
+    <None Include="Resources\banibackground.jpg" />
+    <None Include="Resources\11949855961746203850arrow-right-blue_benji_p_01.svg.hi.png" />
+    <None Include="Resources\muktibackgrounds.jpg" />
+    <None Include="Resources\muktibackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

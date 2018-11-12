@@ -1,0 +1,2024 @@
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\bin\Debug\Diagnostic_Center.exe.config
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\bin\Debug\Diagnostic_Center.exe
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\bin\Debug\Diagnostic_Center.pdb
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.exe
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.pdb
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\Diagnostic_Center\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe.config
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.exe
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe.config
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.exe
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.pdb
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.pdb
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\Sk\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe.config
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.exe
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\And-It\Desktop\life fear\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe.config
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.exe
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.exe
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\bin\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\health care\insaf\insaf hospital\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\Health Care.exe.config
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Health Care.exe
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Health Care.pdb
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\Health Care.exe
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\Health Care.pdb
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\Sk\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\and-it\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\and-it\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\and-it\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\bin\Debug\Mukti Clinic.exe.config
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\bin\Debug\Mukti Clinic.exe
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\bin\Debug\Mukti Clinic.pdb
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Mukti Clinic.exe
+C:\Users\and-it\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Mukti Clinic.pdb
+C:\Users\And-It\Desktop\New folder\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\bin\Debug\Health Care.exe.config
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Health Care.exe
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Health Care.pdb
+C:\Users\sk\Desktop\health care\Diagnostic_Center\bin\Debug\Health Care.exe
+C:\Users\sk\Desktop\health care\Diagnostic_Center\bin\Debug\Health Care.pdb
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\sk\Desktop\health care\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\bin\Debug\Mukti Clinic.exe.config
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\bin\Debug\Mukti Clinic.exe
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\bin\Debug\Mukti Clinic.pdb
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Mukti Clinic.exe
+C:\Users\And-It\Desktop\health care\Diagnostic_Center\obj\Debug\Mukti Clinic.pdb
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\Mukti Clinic.exe.config
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Mukti Clinic.exe
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Mukti Clinic.pdb
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\Mukti Clinic.exe
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\Mukti Clinic.pdb
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\database.mdf
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\bin\Debug\database_log.ldf
+C:\Users\And-It\Desktop\mukti Potuakhali\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\bin\Debug\database.mdf
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\bin\Debug\database_log.ldf
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\bin\Debug\Insaf.exe.config
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\bin\Debug\Insaf.exe
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\bin\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Insaf.exe
+C:\Users\And-It\Desktop\insaf\Diagnostic_Center\obj\Debug\Insaf.pdb
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\bin\Debug\database.mdf
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\bin\Debug\database_log.ldf
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\bin\Debug\Mukti Clinic.exe.config
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\bin\Debug\Mukti Clinic.exe
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\bin\Debug\Mukti Clinic.pdb
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Mukti Clinic.exe
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Mukti Clinic.pdb
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+C:\Users\And-It\Desktop\mukti Bagerhat\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\bin\Debug\database.mdf
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\bin\Debug\database_log.ldf
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\bin\Debug\Health Care.exe.config
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\bin\Debug\Health Care.exe
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\bin\Debug\Health Care.pdb
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Health Care.exe
+C:\Users\And-It\Desktop\hms\Diagnostic_Center\obj\Debug\Health Care.pdb
+G:\hms\hms\Diagnostic_Center\bin\Debug\Health Care.exe.config
+G:\hms\hms\Diagnostic_Center\obj\Debug\Health Care.exe
+G:\hms\hms\Diagnostic_Center\obj\Debug\Health Care.pdb
+G:\hms\hms\Diagnostic_Center\bin\Debug\database.mdf
+G:\hms\hms\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\hms\hms\Diagnostic_Center\bin\Debug\Health Care.exe
+G:\hms\hms\Diagnostic_Center\bin\Debug\Health Care.pdb
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\hms\hms\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\hms\hms\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relation.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\hms\hms\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+G:\hms\bani\Diagnostic_Center\bin\Debug\database.mdf
+G:\hms\bani\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\hms\bani\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\hms\bani\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\hms\bani\Diagnostic_Center\bin\Debug\Bani Diagnostic.exe.config
+G:\hms\bani\Diagnostic_Center\bin\Debug\Bani Diagnostic.exe
+G:\hms\bani\Diagnostic_Center\bin\Debug\Bani Diagnostic.pdb
+G:\hms\bani\Diagnostic_Center\obj\Debug\Bani Diagnostic.exe
+G:\hms\bani\Diagnostic_Center\obj\Debug\Bani Diagnostic.pdb
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+G:\hms\bani\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+G:\hms\Romit\Diagnostic_Center\bin\Debug\database.mdf
+G:\hms\Romit\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\hms\Romit\Diagnostic_Center\bin\Debug\Romit.exe.config
+G:\hms\Romit\Diagnostic_Center\bin\Debug\Romit.exe
+G:\hms\Romit\Diagnostic_Center\bin\Debug\Romit.pdb
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\hms\Romit\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\hms\Romit\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Romit.exe
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Romit.pdb
+G:\hms\Romit\Diagnostic_Center\bin\Debug\EntityFramework.dll
+G:\hms\Romit\Diagnostic_Center\bin\Debug\EntityFramework.xml
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+G:\hms\Romit\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+G:\hms\health_care\Diagnostic_Center\bin\Debug\database.mdf
+G:\hms\health_care\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\hms\health_care\Diagnostic_Center\bin\Debug\EntityFramework.dll
+G:\hms\health_care\Diagnostic_Center\bin\Debug\EntityFramework.xml
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\hms\health_care\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\hms\health_care\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+G:\hms\health_care\Diagnostic_Center\bin\Debug\Healt Care.exe.config
+G:\hms\health_care\Diagnostic_Center\bin\Debug\Healt Care.exe
+G:\hms\health_care\Diagnostic_Center\bin\Debug\Healt Care.pdb
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Healt Care.exe
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Healt Care.pdb
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\bin\Debug\Healt Care.exe.config
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Healt Care.exe
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Healt Care.pdb
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\bin\Debug\database.mdf
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\bin\Debug\database_log.ldf
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\bin\Debug\Healt Care.exe
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\bin\Debug\Healt Care.pdb
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\bin\Debug\EntityFramework.dll
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\bin\Debug\EntityFramework.xml
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+C:\Users\sk\Desktop\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+G:\hms\health_care\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+G:\hms\noor general\Diagnostic_Center\bin\Debug\database.mdf
+G:\hms\noor general\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe.config
+G:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe
+G:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.pdb
+G:\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.dll
+G:\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.xml
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.exe
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.pdb
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon_Account.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anaesthesia.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anasteasia.resources
+G:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\bin\Debug\Noor General.exe.config
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Noor General.exe
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Noor General.pdb
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\bin\Debug\database.mdf
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\bin\Debug\database_log.ldf
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\bin\Debug\Noor General.exe
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\bin\Debug\Noor General.pdb
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\bin\Debug\EntityFramework.dll
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\bin\Debug\EntityFramework.xml
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anaesthesia.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anasteasia.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon_Account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\RdlCompile.cache
+C:\Users\sk\Desktop\noor general\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\OLD FILES\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe.config
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.exe
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.pdb
+G:\OLD FILES\hms\noor general\Diagnostic_Center\bin\Debug\database.mdf
+G:\OLD FILES\hms\noor general\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\OLD FILES\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe
+G:\OLD FILES\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.pdb
+G:\OLD FILES\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.dll
+G:\OLD FILES\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.xml
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anaesthesia.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anasteasia.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon_Account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\OLD FILES\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Customer_History.resources
+D:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe.config
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.exe
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.pdb
+D:\hms\noor general\Diagnostic_Center\bin\Debug\database.mdf
+D:\hms\noor general\Diagnostic_Center\bin\Debug\database_log.ldf
+D:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe
+D:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.pdb
+D:\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.dll
+D:\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.xml
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anaesthesia.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anasteasia.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Customer_History.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon_Account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+D:\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.cache
+D:\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Purchase_Medicine.resources
+D:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Company.resources
+F:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe.config
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.exe
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.pdb
+F:\hms\noor general\Diagnostic_Center\bin\Debug\database.mdf
+F:\hms\noor general\Diagnostic_Center\bin\Debug\database_log.ldf
+F:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe
+F:\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.pdb
+F:\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.dll
+F:\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.xml
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anaesthesia.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anasteasia.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Company.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Customer_History.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Purchase_Medicine.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon_Account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+F:\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.cache
+F:\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Paid_History.resources
+F:\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Purchase_List.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe.config
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.exe
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Noor General.pdb
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\bin\Debug\database.mdf
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.exe
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\bin\Debug\Noor General.pdb
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.dll
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\bin\Debug\EntityFramework.xml
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anaesthesia.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anasteasia.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Company.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Paid_History.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Customer_History.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Purchase_List.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Purchase_Medicine.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon_Account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.medicine_category_crud.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill_print.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.medicine_bill_payment_history.resources
+G:\Shridham\All Software\hms\noor general\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\bin\Debug\database.mdf
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\bin\Debug\database_log.ldf
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\bin\Debug\EntityFramework.dll
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\bin\Debug\EntityFramework.xml
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_medicine.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_room.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_test.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_User.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.admission_form.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Admission_receipt_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.all_patient_history.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anaesthesia.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Anasteasia.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Backup.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.BD_Connection.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Bed_Bill_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_Opd_Account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_patient_account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_reference.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Daily_userc_cash_collection_summarry.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.daily_user_cash_collection.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.database_connection.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.diagnostic_bill2.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_Bill3.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Diagnostic_xl_print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.discharge_bill2.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_Certificate.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Discharge_print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctors.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.doctorwise_referance.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Doctor_Appointment.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.due_collection.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense_List.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Expense.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.External_Account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form1.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form2.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Form3.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.hematology.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospital.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.hospital_referance.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Hospita_Due_Collection_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Inventory_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Lab_Management.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.login.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.medicine_bill_payment_history.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.medicine_category_crud.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Cells_History.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Company.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Medicine_Paid_History.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.month.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Monthly_Opd_Account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_patient_account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.monthly_referance.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Due_Collection_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Opd_Patient_History.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.OPD_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Operation_bill_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pathologist.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.pathology.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.patient.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Patient_Admit.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.pharmacy_bill.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Customer_History.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Pharmacy_Due_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Prescription.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_all_Employee.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Employee_Info.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Expense.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Medicine_Stock.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Print_Purchase_List.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.print_report2.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Properties.Resources.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Purchase_Medicine.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Reagent_Relation.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.reagent_relations.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.refer_doctor.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Salary_Manage.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.show_doctor.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Surgeon_Account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.take_bill_print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Test_information.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.token.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_accounts.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.total_account_monthly.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.ultrasono_report.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Update_Single_User_Cash_Collection.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.urine_report.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_Account.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Account_Monthly.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.user_history.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Login.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.User_Single_Collection_Print.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Appointment.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.View_Employee.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.xerox.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Xray2.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.xray_report.resources
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csproj.GenerateResource.Cache
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\RdlCompile.cache
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\RdlCompile.compiled
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\bin\Debug\National.exe.config
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\bin\Debug\National.exe
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\bin\Debug\National.pdb
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\National.exe
+G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\National.pdb
