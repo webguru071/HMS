@@ -100,9 +100,10 @@
             this.comboBox1.Items.AddRange(new object[] {
             "Admin",
             "Manager",
-            "Reception",
-            "Lab",
-            "Doctor"});
+            "Diagnostic",
+            "Admission",
+            "Pharmachy",
+            "Lab"});
             this.comboBox1.Location = new System.Drawing.Point(115, 27);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(338, 24);

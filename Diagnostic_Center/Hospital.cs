@@ -1230,24 +1230,38 @@ WHERE admission.room IS NULL", db.sql);
 
             }
         }
+        void clear()
+        {
+            label64.Text = ""; //patient-status
+            label6.Text = "0"; //admission fee
+            label23.Text = "0"; // diagonostic bill
+            label30.Text = "0"; // operation bill
+            label49.Text = "0"; // discount total
+            label47.Text = "0"; //
+            label52.Text = "0"; // 
+            label55.Text = "0"; // 
+            label75.Text = "0"; // medicine bill
+            label103.Text = "0"; //advances
+            label27.Text = "0"; //total paid
+            richTextBox18.Text = ""; //patient name
+            richTextBox17.Text = ""; //pay
+            richTextBox16.Text = ""; //discount
+            button8.Enabled = false;
+            button7.Enabled = false;
+            button10.Enabled = false;
 
+        }
         /*===========================================================================================================================================================
                                                                    DISCHARGE PART
          ===========================================================================================================================================================*/
         /* ID Change */
         private void richTextBox19_TextChanged(object sender, EventArgs e)
         {
-
             try
             {
-                label52.Text = "0";
-                label55.Text = "0";
-                label49.Text = "0";
-                label75.Text = "0";
-                label74.Text = "0";
-                label27.Text = "0";
-                string status = "0";
 
+                
+                string status = "0";
                 int c = 0;
                 db.sql.Close();
                 db.sql.Open();
@@ -1261,11 +1275,11 @@ WHERE admission.room IS NULL", db.sql);
                     referance_doctor = read[18].ToString();
 
                 }
-                if (richTextBox19.Text == "")
+                if (richTextBox19.Text == "" || c == 0)
                 {
-                    label64.Text = "";
+                    clear();
                 }
-                if (status == "" && c > 0)
+                else if (status == "" && c > 0)
                 {
                     label64.Text = "Admited";
                     button8.Enabled = true;
@@ -1303,16 +1317,6 @@ WHERE admission.room IS NULL", db.sql);
             medicine_bill();
             total_cash_paid();
 
-
-            if (richTextBox19.Text == "")
-            {
-                label23.Text = "0";
-                label20.Text = "0";
-                label18.Text = "0";
-                label103.Text = "0";
-                label27.Text = "0";
-                richTextBox18.Text = "";
-            }
         }
 
         /* Certificate */
@@ -1342,6 +1346,8 @@ WHERE admission.room IS NULL", db.sql);
                 }
                 label55.Text = sum.ToString();
                 label49.Text = sum.ToString();
+                richTextBox16.Text = "0";
+
             }
             catch
             {
@@ -1634,6 +1640,7 @@ WHERE admission.room IS NULL", db.sql);
                     if (a > 0)
                     {
                         MessageBox.Show("Discharge Sucessfull");
+                        clear();
                     }
                 }
                 db.sql.Close();
@@ -1647,30 +1654,96 @@ WHERE admission.room IS NULL", db.sql);
         /* Discount */
         private void richTextBox16_TextChanged(object sender, EventArgs e)
         {
+  
+            try
+            {
+                if (radioButton1.Checked == true)
+                {
+                    discount();
+                }
+                else
+                {
+                    discount2();
+                }
+            }
+            catch
+            {
+            }
+        }
+
+        void discount()
+        {
 
             try
             {
-                double a = 0;
-                double b = 0;
-                double c = 0;
-                double y = 0;
-                double x = 0;
-                double due = 0;
-                a = Convert.ToDouble(label55.Text);
-                b = Convert.ToDouble(richTextBox16.Text);
-                c = a - b;
-                label49.Text = c.ToString();
-                x = Convert.ToDouble(label49.Text);
-                y = Convert.ToDouble(label47.Text);
-                due = x - y;
-                label52.Text = due.ToString();
+                if (richTextBox16.Text == "" || richTextBox16.Text == "0" || Convert.ToDouble(richTextBox16.Text) < 0)
+                {
 
+                    
+                    label47.Text = label27.Text; //total = paid
+                    label49.Text = label55.Text;
+                    richTextBox17.Text = "0";
 
+                }
+                else
+                {
+                    double total = Convert.ToDouble(label55.Text);
+                    double discount = Convert.ToDouble(String.Concat(richTextBox16.Text.Where(Char.IsDigit)));
+                    if (discount > 25 && label18.Text != "Admin")
+                    {
+
+                        MessageBox.Show("You do not have permission");
+                        label47.Text = label27.Text; //total = paid
+                        label49.Text = label55.Text;
+                        richTextBox17.Text = "0";
+                    }
+                    else
+                    {
+                        double persent = total * (discount / 100);
+                        double cal_discount = total - persent;
+
+                        double subtotal = Math.Ceiling(cal_discount);
+                        label49.Text = subtotal.ToString();
+                        richTextBox17.Text = "0";
+
+                    }
+                }
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+        }
+
+        void discount2()
+        {
+            try
+            {
+                if (richTextBox16.Text == "" || richTextBox16.Text == "0" || Convert.ToInt32(richTextBox16.Text) < 0)
+                {
+
+                    label47.Text = label27.Text; //total = paid
+                    label49.Text = label55.Text;
+                    richTextBox17.Text = "0";
+                }
+                else
+                {
+                    double a = 0;
+                    double b = 0;
+                    double c = 0;
+                    a = Convert.ToDouble(label55.Text); //total
+                    b = Convert.ToDouble(richTextBox16.Text); //discount
+                    c = a - b; //after discount total
+                    label49.Text = c.ToString();
+                    richTextBox17.Text = "0";
+                }
             }
             catch
             {
 
             }
+
         }
 
         /* Pay */
@@ -1685,14 +1758,11 @@ WHERE admission.room IS NULL", db.sql);
 
                 double ans = a - (b + c);
                 label52.Text = ans.ToString();
-                if (richTextBox17.Text == "")
-                {
-                    richTextBox17.Text = "0";
-                }
+                
             }
             catch
             {
-
+                richTextBox17.Text = "0";
             }
 
         }
@@ -1726,7 +1796,7 @@ WHERE admission.room IS NULL", db.sql);
         /* After Discount total change */
         private void label49_TextChanged(object sender, EventArgs e)
         {
-            try
+            /*try
             {
                 int a = 0;
                 int b = 0;
@@ -1747,7 +1817,7 @@ WHERE admission.room IS NULL", db.sql);
             catch
             {
 
-            }
+            }*/
         }
 
 
@@ -1844,7 +1914,11 @@ WHERE admission.room IS NULL", db.sql);
                     b++;
                     a = read[0].ToString();
                 }
-                if (b > 0)
+                if(a == "")
+                {
+                    a = "0";
+                }
+                else if (b > 0)
                 {
                     label6.Text = a;
                 }
@@ -2072,22 +2146,29 @@ WHERE admission.room IS NULL", db.sql);
         // Total Paid
         void total_cash_paid()
         {
-            try
-            {
+            
+           try {
                 db.sql.Close();
                 db.sql.Open();
-                int adv = 0;
+                string adv = "0";
                 SqlCommand cmd = new SqlCommand("select sum(paid) from user_cash_collection_hospital where reg_no='" + richTextBox19.Text + "' and type='Advanced'", db.sql);
                 SqlDataReader read = cmd.ExecuteReader();
                 while (read.Read())
                 {
-                    adv = Convert.ToInt32(read[0].ToString());
+                    adv = read[0].ToString();
+                    
 
                 }
-                label103.Text = adv.ToString();
+                if (adv == "")
+                {
+                    label103.Text = "0";
+                }
+                else
+                {
+                    label103.Text = adv;
+                }
 
                 db.sql.Close();
-
                 double advance = Convert.ToDouble(label103.Text);
                 double operation = Convert.ToDouble(label29.Text);
                 double diagnostic = Convert.ToDouble(label22.Text);
@@ -2099,19 +2180,20 @@ WHERE admission.room IS NULL", db.sql);
                 label47.Text = total.ToString();
 
                 //Operation bill due 'label99'
-                try
+               
                 {
                     label99.Text = (Convert.ToInt32(label30.Text) - Convert.ToInt32(label29.Text)).ToString();
                 }
-                catch {
+                 {
                     label99.Text = "0";
                 }
             }
-            catch
-            {
+            
+            catch(Exception ex){
                 label27.Text = "0";
                 label47.Text = "0";
                 label103.Text= "0";
+                MessageBox.Show(ex.Message);
             }
         }
 
@@ -2555,6 +2637,31 @@ WHERE admission.room IS NULL", db.sql);
                 }
             }
             catch { 
+            }
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                discount2();
+            }
+            catch
+            {
+
+            }
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                discount();
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
 

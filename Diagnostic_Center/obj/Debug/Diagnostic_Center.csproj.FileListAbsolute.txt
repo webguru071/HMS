@@ -2025,7 +2025,6 @@ G:\Shovon's\C#\National-Hospital\Diagnostic_Center\obj\Debug\National.pdb
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\bin\Debug\National.exe.config
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\obj\Debug\National.exe
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\obj\Debug\National.pdb
-E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_bill_list.resources
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.add_doctor.resources
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.Add_Employee.resources
@@ -2148,3 +2147,4 @@ E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\bin\Debug\National
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\bin\Debug\National.pdb
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\bin\Debug\EntityFramework.dll
 E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\bin\Debug\EntityFramework.xml
+E:\SHOVON\Shovon's\C#\GIT\National-Hospital\Diagnostic_Center\obj\Debug\Diagnostic_Center.csprojResolveAssemblyReference.cache

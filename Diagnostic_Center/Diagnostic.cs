@@ -2416,7 +2416,6 @@ namespace Diagnostic_Center
                         while (read.Read())
                         {
                             c++;
-
                         }
                         if (c > 0)
                         {

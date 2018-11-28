@@ -88,6 +88,7 @@
             this.externalAccountToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.testHistoryToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.dBToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.eXPENSEToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -115,7 +116,8 @@
             this.lABToolStripMenuItem,
             this.accountsToolStripMenuItem,
             this.aDMINToolStripMenuItem,
-            this.dBToolStripMenuItem});
+            this.dBToolStripMenuItem,
+            this.eXPENSEToolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(20, 10);
             this.menuStrip1.Margin = new System.Windows.Forms.Padding(0, 0, 100, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -503,7 +505,6 @@
             this.hOSPITALREFERANCEToolStripMenuItem.Name = "hOSPITALREFERANCEToolStripMenuItem";
             this.hOSPITALREFERANCEToolStripMenuItem.Size = new System.Drawing.Size(248, 26);
             this.hOSPITALREFERANCEToolStripMenuItem.Text = "HOSPITAL REFERANCE";
-            this.hOSPITALREFERANCEToolStripMenuItem.Visible = false;
             this.hOSPITALREFERANCEToolStripMenuItem.Click += new System.EventHandler(this.hOSPITALREFERANCEToolStripMenuItem_Click);
             // 
             // dBConnectionToolStripMenuItem
@@ -600,6 +601,15 @@
             this.dBToolStripMenuItem.Text = "DB";
             this.dBToolStripMenuItem.Visible = false;
             this.dBToolStripMenuItem.Click += new System.EventHandler(this.dBToolStripMenuItem_Click);
+            // 
+            // eXPENSEToolStripMenuItem1
+            // 
+            this.eXPENSEToolStripMenuItem1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
+            this.eXPENSEToolStripMenuItem1.Name = "eXPENSEToolStripMenuItem1";
+            this.eXPENSEToolStripMenuItem1.Size = new System.Drawing.Size(91, 25);
+            this.eXPENSEToolStripMenuItem1.Text = "EXPENSE";
+            this.eXPENSEToolStripMenuItem1.Visible = false;
+            this.eXPENSEToolStripMenuItem1.Click += new System.EventHandler(this.eXPENSEToolStripMenuItem1_Click);
             // 
             // label1
             // 
@@ -797,5 +807,6 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem19;
         private System.Windows.Forms.ToolStripMenuItem testHistoryToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem cOMPANYPAYMENTToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem eXPENSEToolStripMenuItem1;
     }
 }

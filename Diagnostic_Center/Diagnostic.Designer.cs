@@ -724,7 +724,7 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.dataGridViewTextBoxColumn22});
-            this.dataGridView1.Location = new System.Drawing.Point(1041, 37);
+            this.dataGridView1.Location = new System.Drawing.Point(1041, 46);
             this.dataGridView1.Name = "dataGridView1";
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.Salmon;
@@ -734,7 +734,7 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle2;
-            this.dataGridView1.Size = new System.Drawing.Size(31, 176);
+            this.dataGridView1.Size = new System.Drawing.Size(31, 141);
             this.dataGridView1.TabIndex = 103;
             this.dataGridView1.Visible = false;
             // 
@@ -850,14 +850,14 @@
             this.panel1.Controls.Add(this.label12);
             this.panel1.Location = new System.Drawing.Point(577, 574);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(553, 129);
+            this.panel1.Size = new System.Drawing.Size(575, 129);
             this.panel1.TabIndex = 3;
             // 
             // button16
             // 
             this.button16.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button16.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button16.Location = new System.Drawing.Point(390, 95);
+            this.button16.Location = new System.Drawing.Point(412, 95);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(34, 27);
             this.button16.TabIndex = 50;
@@ -870,7 +870,7 @@
             // 
             this.button15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button15.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button15.Location = new System.Drawing.Point(342, 49);
+            this.button15.Location = new System.Drawing.Point(364, 49);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(96, 27);
             this.button15.TabIndex = 49;
@@ -883,7 +883,7 @@
             // 
             this.button14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button14.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button14.Location = new System.Drawing.Point(295, 95);
+            this.button14.Location = new System.Drawing.Point(317, 95);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(93, 27);
             this.button14.TabIndex = 48;
@@ -895,7 +895,7 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton2.Location = new System.Drawing.Point(499, 8);
+            this.radioButton2.Location = new System.Drawing.Point(499, 12);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(40, 17);
             this.radioButton2.TabIndex = 47;
@@ -908,7 +908,7 @@
             this.radioButton1.AutoSize = true;
             this.radioButton1.Checked = true;
             this.radioButton1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButton1.Location = new System.Drawing.Point(462, 8);
+            this.radioButton1.Location = new System.Drawing.Point(462, 12);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(34, 17);
             this.radioButton1.TabIndex = 46;
@@ -921,7 +921,7 @@
             // 
             this.button12.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button12.Location = new System.Drawing.Point(231, 98);
+            this.button12.Location = new System.Drawing.Point(253, 98);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(58, 27);
             this.button12.TabIndex = 45;
@@ -934,7 +934,7 @@
             this.label22.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(180, 34);
+            this.label22.Location = new System.Drawing.Point(202, 34);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(0, 16);
             this.label22.TabIndex = 44;
@@ -944,7 +944,7 @@
             this.label21.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(26, 34);
+            this.label21.Location = new System.Drawing.Point(48, 34);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(148, 16);
             this.label21.TabIndex = 43;
@@ -955,7 +955,7 @@
             this.richTextBox9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
             this.richTextBox9.Location = new System.Drawing.Point(384, 4);
             this.richTextBox9.Name = "richTextBox9";
-            this.richTextBox9.Size = new System.Drawing.Size(75, 28);
+            this.richTextBox9.Size = new System.Drawing.Size(75, 29);
             this.richTextBox9.TabIndex = 0;
             this.richTextBox9.Text = "0";
             this.richTextBox9.TextChanged += new System.EventHandler(this.richTextBox9_TextChanged);
@@ -965,7 +965,7 @@
             this.label19.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label19.AutoSize = true;
             this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(316, 9);
+            this.label19.Location = new System.Drawing.Point(314, 10);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(72, 16);
             this.label19.TabIndex = 41;
@@ -977,7 +977,7 @@
             this.button4.Enabled = false;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(485, 98);
+            this.button4.Location = new System.Drawing.Point(507, 98);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(61, 27);
             this.button4.TabIndex = 40;
@@ -990,7 +990,7 @@
             this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(73, 106);
+            this.label15.Location = new System.Drawing.Point(95, 106);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(0, 16);
             this.label15.TabIndex = 39;
@@ -1000,7 +1000,7 @@
             this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(26, 106);
+            this.label14.Location = new System.Drawing.Point(48, 106);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(40, 16);
             this.label14.TabIndex = 38;
@@ -1009,9 +1009,9 @@
             // richTextBox5
             // 
             this.richTextBox5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
-            this.richTextBox5.Location = new System.Drawing.Point(60, 71);
+            this.richTextBox5.Location = new System.Drawing.Point(92, 71);
             this.richTextBox5.Name = "richTextBox5";
-            this.richTextBox5.Size = new System.Drawing.Size(170, 28);
+            this.richTextBox5.Size = new System.Drawing.Size(138, 28);
             this.richTextBox5.TabIndex = 1;
             this.richTextBox5.Text = "";
             this.richTextBox5.TextChanged += new System.EventHandler(this.richTextBox5_TextChanged);
@@ -1021,7 +1021,7 @@
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(25, 74);
+            this.label4.Location = new System.Drawing.Point(47, 74);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(39, 16);
             this.label4.TabIndex = 36;
@@ -1031,7 +1031,7 @@
             // 
             this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(430, 98);
+            this.button3.Location = new System.Drawing.Point(452, 98);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(46, 27);
             this.button3.TabIndex = 3;
@@ -1045,7 +1045,7 @@
             this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(80, 2);
+            this.label13.Location = new System.Drawing.Point(102, 2);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(0, 16);
             this.label13.TabIndex = 34;
@@ -1055,7 +1055,7 @@
             this.label12.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(25, 2);
+            this.label12.Location = new System.Drawing.Point(47, 2);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(48, 16);
             this.label12.TabIndex = 33;
@@ -1118,7 +1118,7 @@
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePicker1.Location = new System.Drawing.Point(413, 197);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(130, 20);
+            this.dateTimePicker1.Size = new System.Drawing.Size(92, 20);
             this.dateTimePicker1.TabIndex = 78;
             // 
             // label33
@@ -1637,7 +1637,7 @@
             this.dataGridViewX2.Name = "dataGridViewX2";
             this.dataGridViewX2.ReadOnly = true;
             this.dataGridViewX2.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridViewX2.Size = new System.Drawing.Size(553, 293);
+            this.dataGridViewX2.Size = new System.Drawing.Size(575, 293);
             this.dataGridViewX2.TabIndex = 92;
             this.dataGridViewX2.Click += new System.EventHandler(this.dataGridViewX2_Click);
             // 

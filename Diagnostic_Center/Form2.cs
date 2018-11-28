@@ -110,7 +110,7 @@ namespace Diagnostic_Center
                             button2.Visible = true;
                             button1.Visible = false;
                             pHARMACYToolStripMenuItem.Visible = true;
-                            //lABToolStripMenuItem.Visible = true;
+                            lABToolStripMenuItem.Visible = true;
                             //button7.Visible = true;
                             //dOCTORToolStripMenuItem.Visible = true;
                             emergencyToolStripMenuItem.Visible = true;
@@ -121,16 +121,16 @@ namespace Diagnostic_Center
                             password = pass;
                             user_type = type;
                         }
-                        if (type == "Reception")
+                        if (type == "Diagnostic")
                         {
 
-                            hOSPITALToolStripMenuItem.Visible = true;
-                            dIAGNOSTICToolStripMenuItem.Visible = true;                        
-                            pHARMACYToolStripMenuItem.Visible = true;
-                            lABToolStripMenuItem.Visible = true;                           
+                            //hOSPITALToolStripMenuItem.Visible = true;
+                            dIAGNOSTICToolStripMenuItem.Visible = true;
+                            eXPENSEToolStripMenuItem1.Visible = true;
+                            //lABToolStripMenuItem.Visible = true;                           
                            // dOCTORToolStripMenuItem.Visible = true;
                            // pRESCRIPTIONToolStripMenuItem.Visible = true;
-                           // emergencyToolStripMenuItem.Visible = true;
+                           emergencyToolStripMenuItem.Visible = true;
                             //button7.Visible = true;
                             button2.Visible = true;
                             button1.Visible = false;
@@ -160,16 +160,37 @@ namespace Diagnostic_Center
                             user_type = type;
                         }
 
-                        if (type == "Doctor")
+                        if (type == "Admission")
                         {
 
-                            // hOSPITALToolStripMenuItem.Visible = true;
+                            hOSPITALToolStripMenuItem.Visible = true;
                             //dIAGNOSTICToolStripMenuItem.Visible = true;
                             //pHARMACYToolStripMenuItem.Visible = true;
-                           // lABToolStripMenuItem.Visible = true;
-                             //dOCTORToolStripMenuItem.Visible = true;
-                             //pRESCRIPTIONToolStripMenuItem.Visible = true;
-                            //  emergencyToolStripMenuItem.Visible = true;
+                            // lABToolStripMenuItem.Visible = true;
+                            //dOCTORToolStripMenuItem.Visible = true;
+                            //pRESCRIPTIONToolStripMenuItem.Visible = true;
+                            emergencyToolStripMenuItem.Visible = true;
+                            eXPENSEToolStripMenuItem1.Visible = true;
+                            //    button7.Visible = true;
+                            button2.Visible = true;
+                            button1.Visible = false;
+                            //  button3.Visible = true;
+                            label2.Text = "User: " + user;
+                            user_name = user;
+                            password = pass;
+                            user_type = type;
+                        }
+                        if (type == "Pharmachy")
+                        {
+
+                            //hOSPITALToolStripMenuItem.Visible = true;
+                            //dIAGNOSTICToolStripMenuItem.Visible = true;
+                            //pHARMACYToolStripMenuItem.Visible = true;
+                            // lABToolStripMenuItem.Visible = true;
+                            //dOCTORToolStripMenuItem.Visible = true;
+                            pRESCRIPTIONToolStripMenuItem.Visible = true;
+                            //emergencyToolStripMenuItem.Visible = true;
+                            eXPENSEToolStripMenuItem1.Visible = true;
                             //    button7.Visible = true;
                             button2.Visible = true;
                             button1.Visible = false;
@@ -655,6 +676,12 @@ namespace Diagnostic_Center
         {
             Medicine_Paid_History mph = new Medicine_Paid_History();
             mph.Show();
+        }
+
+        private void eXPENSEToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Expense exp = new Expense();
+            exp.Show();
         }
     }
 }
